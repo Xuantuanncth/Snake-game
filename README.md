@@ -47,16 +47,6 @@ python snake.py
 ### Game Over Screen
 ![Game Over Screen](./image/finish.png)
 
-You can add the images to your 
-
-README.md
-
- file by using the Markdown syntax for images. Here is the updated 
-
-README.md
-
- file with the images included:
-
 ```markdown
 # Snake Game
 
@@ -80,7 +70,7 @@ This is a classic Snake game implemented in Python using the `curses` library. T
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/Xuantuanncth/snake-game.git
     cd snake-game
     ```
 
@@ -95,17 +85,6 @@ Run the game using the following command:
 ```sh
 python snake.py
 ```
-
-## Game Screens
-
-### Start Screen
-![Start Screen](./image/start.png)
-
-### Main Screen
-![Main Screen](./image/main.png)
-
-### Finish Screen
-![Finish Screen](./image/finish.png)
 
 ## Game Controls
 
