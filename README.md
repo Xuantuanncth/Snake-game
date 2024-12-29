@@ -39,7 +39,7 @@ python snake.py
 ## Screenshots
 
 ### Start Screen
-![Start Screen](./image/start.png)
+![Start Screen](./image/begin.png)
 
 ### Main Game Screen
 ![Main Game Screen](./image/main.png)
